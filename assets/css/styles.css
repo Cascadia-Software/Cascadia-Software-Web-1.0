@@ -1,6 +1,9 @@
 :root {
-  --black: #000000;
-  --white: #ffffff;
+  --color1: #205030;
+  --color2: #203050;
+  --color3: #d0c0c0;
+  --color4: #800040;
+  --color5: #ffc858;
 }
 
 button {
